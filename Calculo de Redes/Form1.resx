@@ -127,6 +127,7 @@
     <value>Olá!
 Apenas informando o IP / CIDR (Exemplo: 192.168.0.1/24)
 O sistema fará os cálculos necessários para retornar:
+* Classe;
 * Endereço IPv4;
 * CIDR;
 * Máscara de sub-rede;
@@ -134,16 +135,17 @@ O sistema fará os cálculos necessários para retornar:
 * IP de broadcast da rede;
 * Primeiro IP da rede; 
 * Último IP da rede;
-* Número total de IPs da rede; e
-* Número de IPs disponíveis para uso.
+* Número total de IPs da rede;
+* Número de IPs disponíveis para uso;
+* Sub-redes; e
+* Total de IPs por Sub-rede
 
-Redes de computadores - UNISC 2018/1
-1º Trabalho
+https://github.com/edhell/Calculadora-de-subRedes
+
+Redes de computadores - UNISC 2018/1 - 1º Trabalho
 * Eduardo Dumke - www.edinfo.com.br
 * Cristiano Eckel
-* Mateus
-
-https://www.todoespacoonline.com/w/2015/06/calculo-de-sub-redes-ipv4/</value>
+* Mateus Witz</value>
   </data>
   <data name="RichTextBox2.Text" xml:space="preserve">
     <value>#### EXEMPLO ####
