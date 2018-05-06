@@ -100,7 +100,6 @@ Public Class Form1
             Dim totalDeIPs As String
             Dim totalDeIPsParaUso As String
 
-
             ' Mascara de rede:
             Dim hosts As Integer = Math.Pow(2, (32 - cidr))
             Dim xTemp As Integer = (32 - cidr)
@@ -242,6 +241,7 @@ Public Class Form1
         '' CIDR da Subrede:
         Dim cidrI As Integer = 32 - Math.Ceiling(Math.Log(nrAdrSubRedesI, 2))
 
+        '' Calcula e mostra subRedes:
         For index = 1 To nrSubRedesI
             Me.Invoke(Sub() addSubRedeIPv4("SubRede " & index & " / " & nrSubRedesI & ". Nrº Hosts: " & nrAdrSubRedesI))
             'RichTextBox3.Text &= "SubRede " & index & " / " & nrSubRedesI & ". Nrº Hosts: " & nrAdrSubRedesI & vbNewLine
