@@ -239,15 +239,18 @@ Public Class Form1
     '' Thread 1 - Calcula subRedes IPv4:
     Public Sub calcularSubRedesIPv4()
 
+        '' CIDR da Subrede:
+        Dim cidrI As Integer = 32 - Math.Ceiling(Math.Log(nrAdrSubRedesI, 2))
+
         For index = 1 To nrSubRedesI
             Me.Invoke(Sub() addSubRedeIPv4("SubRede " & index & " / " & nrSubRedesI & ". Nrº Hosts: " & nrAdrSubRedesI))
             'RichTextBox3.Text &= "SubRede " & index & " / " & nrSubRedesI & ". Nrº Hosts: " & nrAdrSubRedesI & vbNewLine
 
-            Me.Invoke(Sub() addSubRedeIPv4("IP Inicial: " & primeiroHostI))
+            Me.Invoke(Sub() addSubRedeIPv4("IP Inicial: " & primeiroHostI & "/" & cidrI))
             'RichTextBox3.Text &= "IP Inicial: " & primeiroHostI & vbNewLine
             primeiroHostI = addHostAoIPv4(primeiroHostI, nrAdrSubRedesI - 1)
 
-            Me.Invoke(Sub() addSubRedeIPv4("IP Final: " & primeiroHostI))
+            Me.Invoke(Sub() addSubRedeIPv4("IP Final: " & primeiroHostI & "/" & cidrI))
             'RichTextBox3.Text &= "IP Final: " & primeiroHostI & vbNewLine
 
             primeiroHostI = addHostAoIPv4(primeiroHostI, 1)
