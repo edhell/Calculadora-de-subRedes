@@ -1,0 +1,24 @@
+C:\Users\Eduardo\AppData\Local\Temporary Projects\Calculo de Redes\bin\Debug\Calculo de Redes.exe.config
+C:\Users\Eduardo\AppData\Local\Temporary Projects\Calculo de Redes\bin\Debug\Calculo de Redes.exe
+C:\Users\Eduardo\AppData\Local\Temporary Projects\Calculo de Redes\bin\Debug\Calculo de Redes.pdb
+C:\Users\Eduardo\AppData\Local\Temporary Projects\Calculo de Redes\bin\Debug\Calculo de Redes.xml
+C:\Users\Eduardo\AppData\Local\Temporary Projects\Calculo de Redes\obj\Debug\Calculo de Redes.vbprojResolveAssemblyReference.cache
+C:\Users\Eduardo\AppData\Local\Temporary Projects\Calculo de Redes\obj\Debug\Calculo_de_Redes.Form1.resources
+C:\Users\Eduardo\AppData\Local\Temporary Projects\Calculo de Redes\obj\Debug\Calculo_de_Redes.Resources.resources
+C:\Users\Eduardo\AppData\Local\Temporary Projects\Calculo de Redes\obj\Debug\Calculo de Redes.vbproj.GenerateResource.Cache
+C:\Users\Eduardo\AppData\Local\Temporary Projects\Calculo de Redes\obj\Debug\Calculo de Redes.vbproj.CoreCompileInputs.cache
+C:\Users\Eduardo\AppData\Local\Temporary Projects\Calculo de Redes\obj\Debug\Calculo de Redes.exe
+C:\Users\Eduardo\AppData\Local\Temporary Projects\Calculo de Redes\obj\Debug\Calculo de Redes.xml
+C:\Users\Eduardo\AppData\Local\Temporary Projects\Calculo de Redes\obj\Debug\Calculo de Redes.pdb
+C:\Users\Eduardo\Documents\Visual Studio 2017\Projects\Calculo de Redes\Calculo de Redes\bin\Debug\Calculo de Redes.exe.config
+C:\Users\Eduardo\Documents\Visual Studio 2017\Projects\Calculo de Redes\Calculo de Redes\bin\Debug\Calculo de Redes.exe
+C:\Users\Eduardo\Documents\Visual Studio 2017\Projects\Calculo de Redes\Calculo de Redes\bin\Debug\Calculo de Redes.pdb
+C:\Users\Eduardo\Documents\Visual Studio 2017\Projects\Calculo de Redes\Calculo de Redes\bin\Debug\Calculo de Redes.xml
+C:\Users\Eduardo\Documents\Visual Studio 2017\Projects\Calculo de Redes\Calculo de Redes\obj\Debug\Calculo_de_Redes.Form1.resources
+C:\Users\Eduardo\Documents\Visual Studio 2017\Projects\Calculo de Redes\Calculo de Redes\obj\Debug\Calculo_de_Redes.Resources.resources
+C:\Users\Eduardo\Documents\Visual Studio 2017\Projects\Calculo de Redes\Calculo de Redes\obj\Debug\Calculo de Redes.vbproj.GenerateResource.Cache
+C:\Users\Eduardo\Documents\Visual Studio 2017\Projects\Calculo de Redes\Calculo de Redes\obj\Debug\Calculo de Redes.vbproj.CoreCompileInputs.cache
+C:\Users\Eduardo\Documents\Visual Studio 2017\Projects\Calculo de Redes\Calculo de Redes\obj\Debug\Calculo de Redes.exe
+C:\Users\Eduardo\Documents\Visual Studio 2017\Projects\Calculo de Redes\Calculo de Redes\obj\Debug\Calculo de Redes.xml
+C:\Users\Eduardo\Documents\Visual Studio 2017\Projects\Calculo de Redes\Calculo de Redes\obj\Debug\Calculo de Redes.pdb
+C:\Users\Eduardo\Documents\Visual Studio 2017\Projects\Calculo de Redes\Calculo de Redes\obj\Debug\Calculo de Redes.vbprojResolveAssemblyReference.cache
